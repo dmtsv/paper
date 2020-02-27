@@ -1,5 +1,5 @@
 #Author
-Me and some random guy
+Me and some random guy, Rand University
 
 #Title
 My random title
