@@ -19,6 +19,9 @@ I got some extremly random results with a randomness coefficient being random
 #Figures
 Some figure that illustrate random but amazing stuff
 
+#Conclusion
+Even more random
+
 
 #References
 [1] Very random guy
