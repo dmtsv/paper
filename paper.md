@@ -16,6 +16,9 @@ Random simulation is added
 #Results
 I got some extremly random results with a randomness coefficient being random
 
+#Figures
+Some figure that illustrate random but amazing stuff
+
 
 #References
 [1] Very random guy
